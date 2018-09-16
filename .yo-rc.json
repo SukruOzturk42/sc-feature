@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "ftool",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.3.1",
+    "applicationType": "monolith",
+    "baseName": "SCFeature",
+    "packageName": "ftool",
+    "packageFolder": "ftool",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZTc1MjEzNWZlZmI2MWJkNmIxNTg2NDQ4NGNiYzAxODI4OGIxYjI3MmZlYmU1MTM0NzI0MDUwZTYyNmFmOGQ0M2VhZjMyZWI4NWMxYTYwMzNhM2MzMTdhYjExM2E0ZWJkNzE0ZjI1YTg0ZjY0OTFiNDA0MWMwMTMxMWVhNmUwZWU=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ]
+  }
+}
